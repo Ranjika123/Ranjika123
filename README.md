@@ -1,6 +1,18 @@
 # 💫 About Me:
-👋 Howdy! I'm Ranjika Nethpriya, a passionate Full Stack Developer and Mobile App Developer with a love for crafting digital experiences that captivate and inspire. 👨‍💻📱<br><br>🌐 Navigating the intricate world of both web and mobile development is my playground. From breathing life into stunning front-end designs to architecting robust back-end systems, I'm always up for the dual challenge.<br><br>🎓 Armed with a solid foundation in Computer Science, I embarked on a journey to conquer the realms of code. My academic background gave me the wings to explore new technologies and strategies that keep the tech world buzzing.<br><br>🚀 On the web development front, I'm all about responsive designs, intuitive user interfaces, and seamless user experiences. Whether it's crafting intricate user flows or optimizing website performance, I've got a toolset ready to tackle it all.<br><br>📱 In the mobile app universe, I wield the power of frameworks like React Native and Flutter to bring ideas to life across both iOS and Android platforms. Building immersive, feature-rich apps is my jam, and I'm excited to keep pushing the boundaries of what's possible.<br><br>🔧 Beyond coding, I'm a relentless explorer of tech stacks and methodologies. I'm that developer who's always up to date with the latest libraries, frameworks, and best practices. If there's a smoother way to code, you bet I'll find it.
+h1 align="center">Hi 👋, I'm Ranjika NEthpriya</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+- 🔭 I’m currently working on **E-mac**
+
+- 🌱 I’m currently learning **Fluteer and Java**
+
+- 👨‍💻 All of my projects are available at [Portfolio](https://ranjikanethpriya.netlify.app/)
+
+- 💬 Ask me about **React,ThreeJS,NextJs,Android**
+
+- 📫 How to reach me **ranjikaneth2005@gmail.com**
+
+- ⚡ Fun fact **I thinkTechnophile**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ranjikaneth/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranjika_neth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RanjikaNethpriya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RNethpriya) 
