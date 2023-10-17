@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **E-mac**
 
-- 🌱 I’m currently learning **Fluteer and Java**
+- 🌱 I’m currently learning **Fluter and Java**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://ranjikanethpriya.netlify.app/)
 
-- 💬 Ask me about **React,ThreeJS,NextJs,Android**
+- 💬 Ask me about **React,ThreeJS,NextJs,Android,Anguler**
 
 - 📫 How to reach me **ranjikaneth2005@gmail.com**
 
