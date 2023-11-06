@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ranjika NEthpriya</h1>
+<h1 align="center">Hi 👋, I'm Ranjika Nethpriya</h1>
 <h3 align="center">A passionate <b>FullStack Developer</b> from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **E-mac**
