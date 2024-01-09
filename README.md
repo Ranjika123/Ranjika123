@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ranjika Nethpriya</h1>
 <h3 align="center">A passionate <b>FullStack Developer</b> from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **E-mac**
+- 🔭 I’m currently working on **AI Image genarator(Amie)**
 
 - 🌱 I’m currently learning **Fluter and Java**
 
