@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ranjikaneth2005@gmail.com**
 
-- ⚡ Fun fact **I thinkTechnophile**
+- ⚡ Fun fact **I think,I'm Technophile**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ranjikaneth/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ranjika_neth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RanjikaNethpriya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RNethpriya) 
