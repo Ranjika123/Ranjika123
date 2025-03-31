@@ -37,12 +37,12 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ranjika123&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjika123&theme=tokyonight&hide_border=true" />
 </p>
-
+<!--
 ## 🎨 Languages & Tools  
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjika123&layout=pie&theme=tokyonight&hide_border=true" />
 </p>
-
+ -->
 🛠 **Tech Stack**  
 🚀 **Languages:** JavaScript, TypeScript, Python, C, C++  
 ⚡ **Frameworks:** Next.js, React.js, Three.js, TailwindCSS  
