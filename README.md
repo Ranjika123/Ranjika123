@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Epic Banner" width="20%" height="20%">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Epic Banner" width="30%" height="30%">
 </p>
 
 ---
