@@ -44,11 +44,14 @@
 </p>
  -->
  <p align="center">
-🛠 **Tech Stack**  
-🚀 **Languages:** JavaScript, TypeScript, Python, C, C++  
+   
+-🛠 **Tech Stack**  
+-🚀 **Languages:** JavaScript, TypeScript, Python, C, C++  
 ⚡ **Frameworks:** Next.js, React.js, Three.js, TailwindCSS  
-🎮 **Game Dev:** Unity, Godot, Blender  
-🤖 **AI & Backend:** FastAPI, Node.js, Firebase  
+-🎮 **Game Dev:** Unity, Godot, Blender  
+-🤖 **AI & Backend:** FastAPI, Node.js, Firebase  
+
+
 </p>
 ---
 
