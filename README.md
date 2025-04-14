@@ -58,7 +58,7 @@
   <a href="https://ranjikanethpriya.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/Ranjika123"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.fiverr.com/s/DBlwRjy"><img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-  <a href="https://www.upwork.com/services/product/development-it-next-gen-full-stack-projects-with-react-firebase-mongodb-1911616091908064676?ref=project_share"><img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.upwork.com/services/product/development-it-next-gen-full-stack-projects-with-react-firebase-mongodb-1911616091908064676?ref=project_share"><img src="https://img.shields.io/badge/Upwork-%2300B22D.svg?style=for-the-badge&logo=upwork&logoColor=white"></a>
 </p>
 
 
