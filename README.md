@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Graphic Rendering in C# & C++**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ranjikanethpriya.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ranjika-nethrpiya.netlify.app/)
 
 - 💬 Ask me about **React,React-Native,3js,.Net,Unity**
 
