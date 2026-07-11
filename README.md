@@ -1,10 +1,5 @@
 # <p align="center">Hi 👋, I'm Ranjika Nethpriya</p>
 
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Graphics+Programming+Enthusiast;Indie+Game+Developer;Always+Building+Something+New" />
-
-</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
