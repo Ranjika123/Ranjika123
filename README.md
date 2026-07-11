@@ -1,62 +1,158 @@
-
+# <p align="center">Hi 👋, I'm Ranjika Nethpriya</p>
 
 <p align="center">
-  <img  height = "40"src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&height=50&lines=Developer...;Designer...;And+A+Creator..." alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Graphics+Programming+Enthusiast;Indie+Game+Developer;Always+Building+Something+New" />
+
 </p>
 
-
-
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Epic Banner" width="30%" height="30%">
+
+*"Turning ideas into interactive experiences."*
+
 </p>
 
 ---
 
-## ⚡ About Me  
-- 🔭 I’m currently working on **Indie Game**
+# 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Graphic Rendering in C# & C++**
+I'm a passionate **Full Stack Developer** from **Sri Lanka** who enjoys building modern web applications, experimenting with graphics programming, and creating indie games.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ranjika-nethrpiya.netlify.app/)
-
-- 💬 Ask me about **React,React-Native,3js,.Net,Unity**
-
-- 📫 How to reach me **ranjikaneth2005@gmail.com**
-
-- ⚡ Fun fact **I thinkTechnophile**
-
+I love understanding how software works under the hood—from rendering pipelines and game engines to AI-powered applications.
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ranjika123&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjika123&theme=tokyonight&hide_border=true" />
-</p>
+# 🚀 Current Focus
 
-
-## 🎨 Languages & Tools  
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjika123&layout=pie&theme=tokyonight&hide_border=true" />
-</p>
-
-   
--🛠 **Tech Stack**  
--🚀 **Languages:** JavaScript, TypeScript, Python, C, C++  
-⚡ **Frameworks:** Next.js, React.js, Three.js, TailwindCSS  
--🎮 **Game Dev:** Unity, Godot, Blender  
--🤖 **AI & Backend:** FastAPI, Node.js, Firebase  
+* 🎮 Developing an Indie Game
+* 🖥️ Learning Graphics Programming using **C#** & **C++**
+* 🌐 Building Full Stack Web Applications
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 📚 Continuously improving problem-solving skills
 
 ---
 
-## 📫 Connect With Me  
+# 🛠 Tech Stack
+
+### 💻 Languages
+
 <p align="center">
-  <a href="https://ranjikanethpriya.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/Ranjika123"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.fiverr.com/s/DBlwRjy"><img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-  <a href="https://www.upwork.com/services/product/development-it-next-gen-full-stack-projects-with-react-firebase-mongodb-1911616091908064676?ref=project_share"><img src="https://img.shields.io/badge/Upwork-%2300B22D.svg?style=for-the-badge&logo=upwork&logoColor=white"></a>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,js,ts,python" />
 </p>
 
+### ⚡ Frontend
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css" />
+</p>
 
+### ⚙ Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb" />
+</p>
+
+### 🎮 Game Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,godot,blender" />
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+* Graphics Rendering
+* Computer Graphics
+* Game Engine Development
+* AI / Machine Learning
+* Modern C++
+* Shader Programming
+
+---
+
+# 📌 Featured Projects
+
+🚀 Portfolio Website
+
+🎮 Indie Game
+
+🌐 Full Stack Web Applications
+
+🖥️ Graphics Programming Experiments
+
+🤖 AI Projects
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ranjika123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjika123&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjika123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://ranjika-nethpriya.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ranjika123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:ranjikaneth2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.fiverr.com/s/DBlwRjy">
+<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/services/product/development-it-next-gen-full-stack-projects-with-react-firebase-mongodb-1911616091908064676?ref=project_share">
+<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ranjika123&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Create. Learn. Repeat."*
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
