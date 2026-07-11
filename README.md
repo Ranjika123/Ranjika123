@@ -112,7 +112,7 @@ I love understanding how software works under the hood—from rendering pipeline
 
 <p align="center">
 
-<a href="https://ranjika-nethpriya.netlify.app">
+<a href="https://ranjika-nethrpiya.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
